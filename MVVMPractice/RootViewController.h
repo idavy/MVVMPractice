@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  MVVMPractice
 //
-//  Created by Dave on 15/11/5.
+//  Created by Dave on 15/11/6.
 //  Copyright © 2015年 Dave. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UIViewController
 
 @end
-
